@@ -1,7 +1,6 @@
-﻿' Sorting Algorithm
-' Dhruv Menon
+' Sorting Algorithm
 ' Version 1.0
-' Completed on 10.03.2022
+' Last updated on 10.03.2022
 
 Public Class Form1
     Dim arrNumbers() As Integer
